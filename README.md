@@ -1,7 +1,8 @@
 # GenAI
 
 ### Outputs of pricer project
-![image](https://github.com/user-attachments/assets/4fca3b3c-1c8c-42d9-9691-e3189562b2ec)
+![image](https://github.com/user-attachments/assets/72ba9326-0354-44c9-aa99-4ed39c986c68)
+
 
 
 
