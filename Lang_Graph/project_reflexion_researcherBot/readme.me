@@ -1,1 +1,14 @@
+This is the graph for this implementation
 
+```mermaid
+flowchart TB
+    start(("__start__"))
+    draft("draft")
+    execute("execute_tools")
+    revise("revise")
+    end(("__end__"))
+
+    start --> draft
+    draft --> execute
+    execute --> revise
+    revise --> end
