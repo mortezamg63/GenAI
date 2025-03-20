@@ -7,7 +7,7 @@ In this project, the agent explicitly critiques its responses for tasks (the use
 For specific number of repetitions, the generated response is criticized in _**revise**_ node and the **execute_tools** provides reference from google search to use them for improving the new response.
 
 Here is the output:
-
+```
 Step 0
 ================================ Human Message =================================
 
